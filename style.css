@@ -1,0 +1,31 @@
+/* 
+Theme Name: news
+Author: Joy Cho
+*/
+
+header, footer {
+    padding: 15px;
+}
+
+.logo-name{
+    position: relative;
+    bottom: -15px !important;
+    font-size: 28px;
+}
+
+.primary-nav{
+    position: relative;
+    bottom: -20px !important;
+    font-size: 22px;
+}
+
+hr{
+    height:2px;
+    border-width:0;
+    color:black;
+    background-color:black;
+}
+
+.float-right{
+    float: right !important;
+}
